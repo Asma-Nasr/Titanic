@@ -1,5 +1,5 @@
 # Titanic
-Titanic Survival Dataset Cleaning & EDA
+Titanic Survival Dataset Cleaning, EDA and Prediction.
 
 ## TABLE OF CONTENTS
 - [DATA](#Data)
